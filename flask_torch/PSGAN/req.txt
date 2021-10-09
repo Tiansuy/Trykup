@@ -1,0 +1,13 @@
+torch
+pillow
+fire
+numpy
+pathlib
+torchvision
+torchgpipe
+opencv-python
+cmake
+boost
+dlib
+fvcore
+matplotlib
